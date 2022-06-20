@@ -51,4 +51,9 @@ React Native:
 2. How can engines be integrated with React Native?
 3. How do you take into account the difference in screen sizes of mobile phones?
 
+Project Management:
+1. Describe a time where you had to work with a team to create an application.
+2. What challenges did you and your team face?
+3. What kind of collaborative tools did your team use?
+4. What kind of project management paradigm did your use?
 
