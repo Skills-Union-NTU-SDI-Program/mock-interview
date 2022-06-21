@@ -48,7 +48,7 @@ React:
 
 React Native:
 1. What is the difference between React and React Native?
-2. How can engines be integrated with React Native?
+2. How can libraries be integrated with React Native?
 3. How do you take into account the difference in screen sizes of mobile phones?
 
 Project Management:
